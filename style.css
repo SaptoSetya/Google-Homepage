@@ -1,0 +1,22 @@
+div.top {
+    font-family: Calibri;
+    text-align: right;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+div.middle {
+    font-family: Calibri;
+    text-align: center;
+}
+div.leftmargin{
+    text-align: left;
+}
+div.rightmargin {
+    text-align: right;
+}
